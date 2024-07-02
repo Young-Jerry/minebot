@@ -8,12 +8,10 @@
 #
 
 account = {
-        "user"      : 'your@login.com',
-        "password"  : 'your_password',
-        "master"    : 'minecraft_name_who_the_bot_will_listen_to',
-        "host"      : 'exampleserver.whatever.com',
-        "version"   : '1.16.5',
-}
+		"host": "OGshiwegot.aternos.me",
+		"port": "35185",
+		"username": "Gaming_with_sbb"
+	}
 
 #
 # List of world locations you can use in commands
